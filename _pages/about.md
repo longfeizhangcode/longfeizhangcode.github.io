@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Welcome to Longfei's homepage!"
+title: "Welcome to Longfei's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
