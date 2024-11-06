@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Longfei's home"
+title                    : "Longfei's Corner"
 title_separator          : "-"
 name                     : &name "Longfei Zhang"
 description              : &description "PhD candidate at Beijing Normal University, with a keen interest in mathematical statistics for exploring the nature of human behavior."

@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Longfei's homepage!"
+title: "Good morning!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Good morning!
+<!-- ## Good morning! -->
 
 ### Oh, and in case I don't see ya—
 
@@ -19,8 +19,12 @@ redirect_from:
 
 <br>
 
-<img src="images/Quotation_Newton.jpg" alt="What we know is a drop, what we don't know is an ocean." title="What we know is a drop, what we don't know is an ocean." width="600" style="margin-top: 20px; margin-bottom: 20px;">
-
+<div style="text-align: center;">
+    <img src="images/Quotation_Newton.jpg" alt="What we know is a drop, what we don't know is an ocean." title="What we know is a drop, what we don't know is an ocean." width="600" style="margin-top: 20px; margin-bottom: 20px;">
+    <p>
+        <small>Image source: <a href="https://www.azquotes.com/" target="_blank" rel="noopener noreferrer">AZQuotes</a></small>
+    </p>
+</div>
 
 
 <!-- 
