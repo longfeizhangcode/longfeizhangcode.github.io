@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Longfei's homepage!"
+title: "Good morning!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Good morning!
+<!-- ## Good morning! -->
 
 ### Oh, and in case I don't see ya—
 

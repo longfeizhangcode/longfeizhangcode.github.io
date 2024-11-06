@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Longfei's home"
+title                    : "Longfei Zhang (张龙飞)"
 title_separator          : "-"
 name                     : &name "Longfei Zhang"
 description              : &description "PhD candidate at Beijing Normal University, with a keen interest in mathematical statistics for exploring the nature of human behavior."
@@ -22,7 +22,7 @@ repository: "longfeizhangcode/longfeizhangcode.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Longfei Zhang (张龙飞)"
+  name             : "Longfei Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Psychology"
   location         : "Beijing, CN"
