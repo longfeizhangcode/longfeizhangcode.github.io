@@ -13,7 +13,7 @@ redirect_from:
 
 ### Good afternoon, good evening, and good night!
 
-## I'm Longfei, a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a Visiting Graduate Researcher at the University of California, Los Angeles (UCLA).
+### I'm Longfei, a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a Visiting Graduate Researcher at the University of California, Los Angeles (UCLA).
 
 ### I'm passionate about understanding human behavior, psychology, and the world through mathematical statistics and machine learning. I love discussing these topics, so feel free to reach out!
 
