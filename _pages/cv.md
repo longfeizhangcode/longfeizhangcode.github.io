@@ -12,15 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Psychometrics, Beijing Normal University, 2026
-* 2025 Visiting Graduate Researcher
-  * University of California, Los Angeles (UCLA), USA
+* Visiting Graduate Researcher, School of Education & Information Studies, UCLA, 2025
 * M.Ed. in Psychometrics, Jiangxi Normal University, 2021
 * B.S. in Psychology, Jiangxi Normal University, 2018
 
 Work experience
 ======
 * August 2026 – Present: Lecturer
-* School of Psychology, Zhejiang Normal University
+  * School of Psychology, Zhejiang Normal University
 
 <!-- * Spring 2024: Academic Pages Collaborator
   * Github University
