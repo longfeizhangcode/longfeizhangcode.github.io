@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-### I am a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a visiting graduate researcher at UCLA.
+<div class="homepage-intro" markdown="1">
 
-### My research brings together artificial intelligence and psychometrics in two complementary directions: **AI for Psychometrics** and **Psychometrics for AI**. In the first, I explore how neural networks and machine learning can advance psychological and educational measurement. More recently, I have also begun exploring the second, applying psychometric theories and methods to evaluate the capabilities and behaviors of large language models (LLMs).
+I am a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a visiting graduate researcher at UCLA.
 
-### I enjoy exchanging ideas on these topics, so feel free to reach out!
+My research brings together artificial intelligence and psychometrics in two complementary directions: **AI for Psychometrics** and **Psychometrics for AI**. In the first, I explore how neural networks and machine learning can advance psychological and educational measurement. More recently, I have also begun exploring the second, applying psychometric theories and methods to evaluate the capabilities and behaviors of large language models (LLMs).
+
+I enjoy exchanging ideas on these topics, so feel free to reach out!
+
+</div>
 
 <br>
 
