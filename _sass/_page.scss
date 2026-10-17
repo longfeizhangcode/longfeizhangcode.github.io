@@ -107,6 +107,49 @@
   }
 }
 
+.page__content .seasonal-artwork {
+  display: block;
+  margin: 20px 0 2em;
+
+  > img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .seasonal-translations {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25em;
+    margin: 1.25em 0 0;
+    color: #555555;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: 1.65;
+    text-align: center;
+
+    p {
+      min-width: 0;
+      margin: 0;
+    }
+
+    span {
+      display: block;
+    }
+
+    @media (max-width: 767px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1.5em;
+      font-size: 0.85em;
+    }
+
+    @media (max-width: 479px) {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

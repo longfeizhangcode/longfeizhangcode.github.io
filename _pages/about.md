@@ -1,27 +1,39 @@
 ---
 permalink: /
-title: "Good morning!"
+title: "Hi, I'm Longfei!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- ## Good morning! -->
-
-### Oh, and in case I don't see ya—
-
-### Good afternoon, good evening, and good night!
-
-### I'm Longfei, a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a Visiting Graduate Researcher at the University of California, Los Angeles (UCLA).
+### I'm Longfei, a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a visiting graduate researcher at UCLA.
 
 ### I'm passionate about understanding human behavior, psychology, and the world through mathematical statistics and machine learning. I love discussing these topics, so feel free to reach out!
 
 <br>
 
-<div style="text-align: center;">
-    <img src="{{ '/images/four-seasons-in-misty-ink.png' | relative_url }}" alt="Four Chinese ink landscapes depicting spring, summer, autumn, and winter, with classical Chinese poetry." title="Four Seasons in Misty Ink" width="1672" height="941" style="display: block; width: 100%; height: auto; margin: 20px auto;">
-</div>
+<figure class="seasonal-artwork">
+    <img src="{{ '/images/four-seasons-in-misty-ink.png' | relative_url }}" alt="Four Chinese ink landscapes depicting spring, summer, autumn, and winter, with classical Chinese poetry." title="Four Seasons in Misty Ink" width="1672" height="941">
+    <figcaption class="seasonal-translations" lang="en">
+        <p aria-label="Spring">
+            <span>Spring blossoms grace the woods with beauty,</span>
+            <span>While spring birds sing their plaintive songs.</span>
+        </p>
+        <p aria-label="Summer">
+            <span>At dawn, I ascend the cool terrace;</span>
+            <span>At dusk, I rest beside the orchid pond.</span>
+        </p>
+        <p aria-label="Autumn">
+            <span>I lift my gaze to the paulownia tree;</span>
+            <span>How lovely its blossoms are.</span>
+        </p>
+        <p aria-label="Winter">
+            <span>Deep waters lie beneath three feet of ice;</span>
+            <span>Pure snow blankets the land as far as the eye can see.</span>
+        </p>
+    </figcaption>
+</figure>
 
 
 <!-- 
