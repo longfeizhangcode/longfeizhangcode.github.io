@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-### I'm Longfei, a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a visiting graduate researcher at UCLA.
+### I am a Lecturer in the School of Psychology at Zhejiang Normal University. I received my Ph.D. in Psychology from Beijing Normal University in 2026. During my doctoral studies, I was a visiting graduate researcher at UCLA.
 
-### I'm passionate about understanding human behavior, psychology, and the world through mathematical statistics and machine learning. I love discussing these topics, so feel free to reach out!
+My research focuses on the intersection of artificial intelligence and psychometrics, with two complementary directions: **AI for Psychometrics** and **Psychometrics for AI**. In the former, I explore how advances in neural networks and machine learning can contribute to methodological innovation in psychometrics and educational assessment. More recently, I have become interested in the latter, applying psychometric theories and methods to evaluate the capabilities and behaviors of large language models (LLMs).
+
+I enjoy exchanging ideas on these topics, so feel free to reach out!
 
 <br>
 
