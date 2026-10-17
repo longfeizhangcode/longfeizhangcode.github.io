@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Psychometrics, Beijing Normal University, 2026
+* 2025 Visiting Graduate Researcher
+  * University of California, Los Angeles (UCLA), USA
 * M.Ed. in Psychometrics, Jiangxi Normal University, 2021
 * B.S. in Psychology, Jiangxi Normal University, 2018
 
