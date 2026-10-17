@@ -20,10 +20,7 @@ redirect_from:
 <br>
 
 <div style="text-align: center;">
-    <img src="images/Quotation_Newton.jpg" alt="What we know is a drop, what we don't know is an ocean." title="What we know is a drop, what we don't know is an ocean." width="600" style="margin-top: 20px; margin-bottom: 20px;">
-    <p>
-        <small>Image source: <a href="https://www.azquotes.com/" target="_blank" rel="noopener noreferrer">AZQuotes</a></small>
-    </p>
+    <img src="{{ '/images/four-seasons-in-misty-ink.png' | relative_url }}" alt="Four Chinese ink landscapes depicting spring, summer, autumn, and winter, with classical Chinese poetry." title="Four Seasons in Misty Ink" width="1672" height="941" style="display: block; width: 100%; height: auto; margin: 20px auto;">
 </div>
 
 
